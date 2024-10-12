@@ -1,0 +1,1475 @@
+                                                                            ARTICLES
+
+
+
+Profile Evidence, Fairness, and the Risks
+of Mistaken Convictions*
+
+Marcello Di Bello and Collin O’Neil
+Many oppose the use of profile evidence against defendants at trial, even when the
+statistical correlations are reliable and the jury is free from prejudice. The liter-
+ature has struggled to justify this opposition. We argue that admitting profile ev-
+idence is objectionable because it violates what we call “equal protection”—that
+is, a right of innocent defendants not to be exposed to higher ex ante risks of mis-
+taken conviction compared to other innocent defendants facing similar charges.
+We also show why admitting other forms of evidence, such as eyewitness, trace,
+and motive evidence, does not violate equal protection.
+
+
+
+
+I. INTRODUCTION
+
+In May 14, 1992 a package containing raw opium was delivered to an apartment
+rented by Neng Vue and Lee Vue, two brothers of Hmong ancestry who
+lived in the city of Minneapolis. The police monitored the delivery, and the
+brothers were arrested and brought to trial on opium trafficking charges.
+To bolster the case against them, the prosecution called an expert witness
+to the stand who testified that 95 percent of the opium smuggling cases in
+
+     * For valuable comments and discussions, we are grateful to Sean Aas, Ronald Allen,
+Lalaie Ameeriar, Nicolas Delon, Didier Fassin, Camil Golub, Bernard Harcourt, Sari Kisi-
+levsky, Robert MacDougall, Jennifer Morton, Marsha O’Neil, Duncan Purves, Regina Rini,
+Umrao Sethi, Seana Valentine Shiffrin, George Smith, Jacob Sparks, Travis Timmerman,
+Massimiliano Tomba, David Wasserman, and participants in the NYC Early Career Ethicists
+Workshop, the XII Conference of the Italian Society for Analytic Philosophy, and the CUNY
+Faculty Fellowship Publication Program, as well as to audiences at the University of Lausanne,
+Institute for Advanced Study in Princeton, Milan Polytechnic University, and University of
+Nevada, Las Vegas. We also thank two anonymous reviewers and several associate editors at
+Ethics for very helpful suggestions. Both authors contributed equally to this article.
+
+
+Ethics 130 ( January 2020): 147–178
+© 2020 by The University of Chicago. All rights reserved. 0014-1704/2020/13002-0001$10.00
+
+
+                                            147
+148       Ethics     Q
+the Minneapolis area involved people of Hmong ancestry.1 When paired
+with the fact that the Hmong compose only 6 percent of the population
+in the area, the 95 percent estimate yields the following correlation:
+
+      Ethnicity: In the Minneapolis area, someone who is of Hmong ances-
+      try is 297 times more likely to be trafficking drugs as compared to
+      someone who is not of Hmong ancestry.2
+
+      The brothers were convicted of opium smuggling, and while the cor-
+relation between ethnicity and drug trafficking would obviously not have
+been enough on its own to convict them, it might well have been the tip-
+ping point for the jury. The convictions were reversed on appeal, on the
+grounds that the jury had been improperly invited to “put the Vues’ racial
+and cultural background into the balance in determining their guilt.”3
+Setting aside the legal details of the court’s argument, there is surely some-
+thing intuitively troubling about admitting evidence like Ethnicity at trial.
+Allowing such evidence to be used against a defendant would seem to
+wrong the defendant, even when it plays only a supplementary role.
+      The use of statistics about ethnicity, especially statistics about a disad-
+vantaged and stigmatized ethnicity, may raise special concerns.4 But there
+is also intuitive resistance to admitting the following correlations as evi-
+dence against defendants:
+
+      Prior Burglary: Someone who has previously been convicted of bur-
+      glary is 125 times more likely to commit burglary than someone in
+      the general population.5
+
+      Bad Environment: 20 percent of males brought up in broken homes,
+      addicted to drugs, and unemployed go on to commit serious acts of
+
+      1. U.S. v. Vue, 13 F.3d 1206 (8th Circuit, 1994).
+      2. If the Hmong commit 95 percent of the opium smuggling crimes and are 6 percent
+of the population in the area, the remaining 94 percent of the population must commit
+only 5 percent of such crimes. That is, (.95/.06)/(.05/.94) 5 297.
+      3. U.S. v. Vue, 1213. Many appellate courts have held that evidence like Ethnicity is in-
+admissible, e.g., U.S. v. Cabrera, 222 F.3d 590 (9th Circuit, 2000).
+      4. Annabelle Lever usefully distinguishes two approaches to the issue of racial or eth-
+nic profiling: a statistical discrimination approach which treats racial profiling as one in-
+stance of a more general issue, and a social construction approach which is primarily con-
+cerned with the specific ways in which racial profiling contributes to racial oppression. We
+are pursuing the former approach here. See Annabelle Lever, “Racial Profiling and the Po-
+litical Philosophy of Race,” in The Oxford Handbook of Philosophy and Race, ed. Naomi Zack
+(Oxford: Oxford University Press, 2017), 425–35.
+      5. See Michael Redmayne, “The Relevance of Bad Character,” Cambridge Law Journal
+61 (2002): 684–714. Rule 403 of the US Federal Rules of Evidence forbids, with some ex-
+ceptions, admitting prior crime evidence. Defendants fit the profile in Prior Burglar be-
+cause of a choice, unlike the profiles in Ethnicity and Bad Environment. On this, see note 49.
+                                          Di Bello and O’Neil        Profile Evidence 149
+      violence, while only 0.1 percent of people in the general population
+      commit such crimes.6
+
+Ethnicity, Prior Burglary, and Bad Environment are all examples of what we
+shall call “profile evidence.” In its incriminating form, profile evidence
+expresses a positive, nonaccidental statistical correlation between bearing
+a certain property and committing a type of crime. When the correlation
+is reliable and the defendant has the property, this evidence is probative of
+guilt—that is, its addition to the body of evidence would increase, some-
+times even substantially, the probability that the fact finders should assign
+to the defendant’s guilt.7
+       There is a presumption in favor of admitting probative evidence,
+since normally this would make the fact finders more likely to reach accu-
+rate verdicts, and accuracy is obviously an important legal value. Of course,
+evidence that ought to enhance accuracy could instead detract from it if
+fact finders do not respond appropriately. They might tend to give profile
+evidence more weight than it deserves, and they might even be persuaded
+by profile evidence to convict defendants for who they are rather than for
+what they did. Nevertheless, while such concerns may underlie some of
+the resistance to the use of profile evidence at trial, they cannot account
+for all of it. Even on the assumption that fact finders would respond ratio-
+nally to Ethnicity, Prior Burglary, and Bad Environment, defendants would
+still seem to have grounds for complaint if such evidence were used against
+them.8
+       It is not obvious what those grounds could be. The objection to ad-
+mitting profile evidence cannot be that such evidence is statistical, because
+
+      6. For a similar example, see R. A. Duff, “Dangerousness and Citizenship,” in Funda-
+mentals of Sentencing Theory, ed. Andrew Ashworth and Martin Wasik (Oxford: Oxford Uni-
+versity Press, 1998), 141–64, 156.
+      7. For example, Bad Environment evidence can make a significant difference to the
+probability of the defendant’s guilt. Suppose that other evidence singles out two individu-
+als, each initially 50 percent likely to be guilty, where one matches profile BE and the other
+does not. If someone matching profile BE is 200 times more likely to engage in violence
+than someone in the general population, the 200 : 1 ratio can be construed to yield a guilt
+probability of 200/(200 1 1), or roughly 99.5 percent.
+      8. The possibility of forming a belief based on profile evidence without any epistemic
+irrationality, in contexts like this one, has recently been challenged on moral encroach-
+ment grounds; see, e.g., Rima Basu, “The Specter of Normative Conflict: Does Fairness Re-
+quire Inaccuracy?,” in An Introduction to Implicit Bias: Knowledge, Justice, and the Social Mind,
+ed. Erin Beeghly and Alex Madva (New York: Routledge, forthcoming); Renée Jorgensen
+Bolinger, “The Rational Impermissibility of Accepting (Some) Racial Generalizations,”
+Synthese (forthcoming); and Sarah Moss, “IX—Moral Encroachment,” Proceedings of the Ar-
+istotelian Society 118 (2018): 177–205. For a critical examination of moral encroachment,
+see Georgi Gardiner, “Evidentialism and Moral Encroachment,” in Believing in Accordance
+with the Evidence: New Essays on Evidentialism, ed. Kevin McCain (Cham: Springer, 2018), 169–
+95. Nothing in our argument will turn on the truth or falsehood of moral encroachment.
+150       Ethics       January 2020
+admitting other forms of statistical evidence is unobjectionable. If DNA is
+discovered at a crime scene and it matches the defendant’s DNA, it would
+be appropriate to admit statistics about the low frequency of the defen-
+dant’s genetic profile within the general population. Nor can the objec-
+tion be that profile evidence cites a generalization about what people like
+the defendant are more likely to do. Motive evidence, such as the fact
+that the defendant had recently fought with the victim, is routinely
+admitted at trial, even though it implicitly invites fact finders to rely on gen-
+eralizations like “people who engaged in a heated argument with some-
+one are more likely to kill that person as compared to other people.” So
+what is special about profile evidence?
+      Some scholars have argued that the problem with profile evidence is
+that its admissibility at trial may compromise the deterrent effect of pun-
+ishment.9 Other scholars have argued that admitting profile evidence
+is inconsistent with respecting the autonomy or individuality of defen-
+dants.10 In Section II, we will explain why these accounts fall short. The
+failure of these two approaches, however, should not lead us to conclude
+that the resistance to admitting profile evidence is merely an unwarranted
+bias, as some have urged.11 We will argue that resistance to admitting such
+evidence can be vindicated by appealing to another fundamental legal
+value, equality before the law. This is a familiar legal value, but we believe
+that its implications for evidence law have yet to be fully appreciated.
+      Equality before the law in the context of trial procedure tends to be
+understood as requiring only equal consideration of innocent defen-
+dants’ interests in avoiding mistaken conviction.12 In Section III, we ar-
+gue instead for a novel and more demanding interpretation of equality
+before the law that ascribes to innocent defendants a comparative right
+that we label a right to “equal protection.”13 This is a right not to be exposed
+
+
+
+     9. David Enoch, Talia Fisher, and Levi Spectre, “Statistical Evidence, Sensitivity, and
+the Legal Value of Knowledge,” Philosophy and Public Affairs 40 (2012): 197–224; David
+Enoch and Talia Fisher, “Sense and Sensitivity: Epistemic and Instrumental Approaches
+to Statistical Evidence,” Stanford Law Review 67 (2015): 557–611.
+     10. See David T. Wasserman, “The Morality of Statistical Proof and the Risk of Mis-
+taken Liability,” Cardozo Law Review 13 (1991): 934–76; Amit Pundik, “Freedom and Gen-
+eralisation,” Oxford Journal of Legal Studies 37 (2016): 189–216.
+     11. See Federico Picinali, “Base-Rates of Negative Traits: Instructions for Use in Crim-
+inal Trials,” Journal of Applied Philosophy 33 (2016): 69–87; Redmayne, “Relevance of Bad
+Character.”
+     12. See Ronald Dworkin, “Principle, Policy, and Procedure,” in A Matter of Principle
+(Oxford: Oxford University Press, 1985), 89; and T. M. Scanlon, Why Does Inequality Matter?
+(Oxford: Oxford University Press, 2018), 11–25.
+     13. What we call the “right to equal protection” does not refer to the Fourteenth
+Amendment guarantee of equal protection under the law. We take no position here on is-
+sues of constitutionality.
+                                  Di Bello and O’Neil   Profile Evidence 151
+to higher risks of mistaken conviction than other innocent defendants
+who are facing comparably serious charges.
+      We then go on, in Section IV, to show that admitting profile evidence
+will infringe this right to equal protection, because if incriminating profile
+evidence were admissible at trial, innocent defendants who fit an incrimi-
+nating profile would be exposed to a higher risk of mistaken conviction
+than other innocent defendants. Admitting exculpatory profile evidence,
+such as evidence that a defendant is less likely to have committed a crime
+because the defendant grew up in, say, a Good Environment, will also in-
+fringe some defendants’ rights to equal protection, although it will be the
+rights of defendants who do not fit exculpatory profiles rather than the
+rights of defendants who do. As we will see, however, there is a stronger
+overall case for overriding defendants’ equal protection rights by admit-
+ting exculpatory profile evidence than there is for overriding those rights
+by admitting incriminating profile evidence.
+      In Sections V and VI, we turn to the implications of equal protec-
+tion for the admissibility of other kinds of evidence. We will show that
+the argument we gave against the admissibility of profile evidence does
+not apply to eyewitness, trace, and motive evidence since they, unlike pro-
+file evidence, can mistakenly incriminate any defendant. Admitting these
+kinds of evidence might still give rise to unequal risks of mistaken incrim-
+ination across innocent defendants, in the sense that some categories of
+defendants will be more likely than others to have such evidence intro-
+duced against them at trial. But we argue, perhaps surprisingly, that this
+will not translate into unequal risks of mistaken conviction so long as fact
+finders assess the probative value of the evidence correctly. A proper as-
+sessment of the probative value of profile evidence, by contrast, will guar-
+antee unequal risks of mistaken conviction. Thus, profile evidence violates
+equal protection, not because fact finders cannot be trusted to evaluate
+it properly, but because of the kind of evidence it is.
+
+II. EXISTING APPROACHES
+
+Our attempt to vindicate the intuitive resistance to admitting profile ev-
+idence, as well as our evaluation of competing approaches, will be guided
+by two desiderata. First, since the resistance is—we believe—motivated by
+the thought that admitting profile evidence would in some way wrong de-
+fendants, at least if they are innocent, we need to identify a reason against
+admitting such evidence that would entail that the defendants would be
+wronged by it. As we’ll see below, not all reasons against admitting pro-
+file evidence would satisfy this desideratum. Secondly, what we seek is an
+objection to admitting profile evidence as such. There could be objec-
+tions that are peculiar to particular forms of profile evidence. When the
+state uses racial or ethnic profiles, as in Ethnicity, this could unavoidably
+152        Ethics        January 2020
+express a false and demeaning message in a society where stereotypes that
+attribute innate criminality to these groups are prevalent.14 After someone
+who was convicted of a crime has paid their debt to society, it may be unjust
+to use their prior crime against them, as in Prior Burglary.15 But there is also
+resistance to profile evidence whatever its form. It is this broader resistance
+that we aim to vindicate.16
+
+A
+Earlier we mentioned two approaches that might be capable of identify-
+ing an objection to admitting profile evidence as such. One approach ap-
+peals to the legal value of deterrence and shows how the admissibility of
+profile evidence could reduce the deterrence effect of punishment. Con-
+sider an agent deliberating about whether to commit a crime. What is
+distinctive about profile evidence is that if the agent belongs to a profiled
+category, the corresponding profile evidence will be available against the
+agent whether or not they commit the crime. Thus, for people who fit
+profiles, the admissibility of profile evidence could reduce their incentive
+to abstain from the crime, because it would make their chances of being
+punished less dependent on whether or not they choose to commit the
+crime.17
+
+
+      14. See Deborah Hellman, “Racial Profiling and the Meaning of Racial Categories,” in
+Contemporary Debates in Applied Ethics, 2nd ed., ed. Andrew I. Cohen and Christopher H.
+Wellman (Hoboken, NJ: Wiley-Blackwell, 2014), 232–44. On the significance of the fact
+that when certain social groups are profiled each instance of profiling can be expected to
+contribute to a larger pattern of similar actions, see Bolinger, “Rational Impermissibility”;
+Adam Omar Hosein, “Racial Profiling and a Reasonable Sense of Inferior Political Status,”
+Journal of Political Philosophy 26 (2018): 1–20; and Andreas Mogensen, “Racial Profiling and
+Cumulative Injustice,” Philosophy and Phenomenological Research 98 (2019): 452–77. For a
+general discussion of how implicit racial biases generate legal and political injustices, see
+Michael Cholbi and Alex Madva, “Black Lives Matter and the Call for Death Penalty Aboli-
+tion,” Ethics 128 (2018): 517–44.
+      15. Anthony Duff and Sandra Marshall, “Character, Propensities, and the (Mis)use of
+Statistics in Criminal Trials,” in Truth and Trials: Dilemmas at the Intersection of Epistemology and
+Philosophy of Law, ed. Zachary Hoskins and Jon Robson (New York: Routledge, forthcoming).
+      16. Our examples may seem to trade on the fact that defendants fitting those profiles
+already tend to suffer from discrimination, but the following example arouses the same in-
+tuitive resistance, even though the profile does not pick out a socially salient category of
+defendants: “Warrior Gene: Someone who carries the low activity allele of the MAOA gene
+is twice as likely to engage in violent, aggressive, and antisocial behavior than someone who
+carries the high activity allele of the MAOA gene.” See Sally McSwiggan, Bernice Elger, and
+Paul S. Appelbaum, “The Forensic Use of Behavioral Genetics in Criminal Proceedings:
+Case of the MAOA-L Genotype,” International Journal of Law and Psychiatry 50 (2017): 17–23.
+      17. See Enoch et al., “Statistical Evidence”; and Enoch and Fisher, “Sense and Sensi-
+tivity.” On the limits of the deterrence approach, see Georgi Gardiner, “Legal Burdens of
+Proof and Statistical Evidence,” in The Routledge Handbook of Applied Epistemology, ed. David
+Coady and James Chase (New York: Routledge, 2018), 179–95.
+                                        Di Bello and O’Neil       Profile Evidence 153
+      Although deterrence is obviously a legally relevant value, there are
+two reasons to doubt that this approach can vindicate the resistance to
+the admissibility of profile evidence. First, as the proponents of the deter-
+rence approach themselves note, it is only when statistical evidence would
+be enough or nearly enough on its own for a conviction that its admissi-
+bility could compromise the deterrence effect of punishment. Even though
+evidence like Ethnicity, Prior Burglary, and Bad Environment can have con-
+siderable probative value, such evidence is not enough or nearly enough
+on its own to convict someone of a crime. Thus, even if it were admissible
+at trial, people belonging to these profiles would still have a strong incen-
+tive to abstain from crime, since whether there would be enough evidence
+overall to convict them would still depend heavily on whether they com-
+mit the crime or not.18
+      The second issue with the deterrence approach is that it does not
+even attempt to explain how admitting profile evidence could wrong de-
+fendants. Even if admitting profile evidence against defendants would
+compromise deterrence, these defendants would have no special stand-
+ing to complain. The state may have a duty to preserve the deterrence
+value of punishment, but this is owed to the general public, not to defen-
+dants in particular.
+
+B
+There is another approach to profile evidence that, unlike the deterrence
+approach, does attempt to explain how its admission would wrong defen-
+dants. According to this other approach, admitting profile evidence is in-
+consistent with the legal commitment to respect the autonomy or individ-
+uality of defendants.19 The literature has largely been dismissive of this
+approach, on the grounds that there is no incompatibility between rely-
+ing on profile evidence to infer what a defendant has done and viewing
+the defendant as having done it autonomously.20 But there is another way of
+understanding this approach that cannot be so easily dismissed, namely,
+that in relying on profile evidence, the fact finders treat the defendant
+merely as a member of a group and not as an individual.
+     If profile evidence is admitted at trial, the fact finders may reach a de-
+cision to convict based in part on a generalization about the group the de-
+fendant belongs to. Even if they do not ultimately convict, profile evidence
+
+
+     18. Enoch and Fisher in “Sense and Sensitivity” also note that the admissibility of
+prior act evidence like Prior Burglary will not dampen incentives to avoid crime if we take
+into account the period before the first crime is committed.
+     19. See Wasserman, “Morality of Statistical Proof”; and Pundik, “Freedom and Gener-
+alisation.”
+     20. For criticisms, see Picinali, “Base-Rates of Negative Traits,” 73–75; and Mike Red-
+mayne, “Exploring the Proof Paradoxes,” Legal Theory 14 (2008): 292–96.
+154       Ethics        January 2020
+still invites them to infer, on the basis of the defendant’s group member-
+ship, that the defendant is more likely to have a propensity to commit a
+type of crime, or at least a stronger propensity than others who do not be-
+long to the defendant’s group. Since these inferences are based on gener-
+alizations, they could treat the defendant merely as a member of a group
+and not as an individual.
+       But treating someone as an individual does not, on the most plau-
+sible interpretation, require eschewing reliance on (accurate) generaliza-
+tions. Rather, it only requires being receptive to the possibility that the in-
+dividual is an exception to the generalization—that is, being receptive to
+any finer-grained information that would indicate that the generalization
+is not to be relied on in drawing a conclusion about the individual.21 A job
+applicant who was rejected because of a criminal history could complain
+of not being treated as an individual if the employer had ignored infor-
+mation about the applicant’s long record of trustworthiness since the
+crime or had denied the applicant an opportunity to present this infor-
+mation. But a defendant in a trial is given an opportunity to introduce ev-
+idence that distinguishes them from their group and is entitled to have
+this information taken into consideration by the fact finders.22 In a well-
+functioning courtroom, then, fact finders could use profile evidence with-
+out failing to treat the defendant as an individual.23
+
+
+      21. We think that this is the most plausible way of understanding Wasserman’s objec-
+tion in “The Morality of Statistical Proof.” For accounts of what it is to treat someone as an
+individual, see Kasper Lippert-Rasmussen, “We Are All Different: Statistical Discrimination
+and the Right to Be Treated as an Individual,” Journal of Ethics 15 (2011): 47–59; Benjamin
+Eidelson, “Treating People as Individuals,” in Philosophical Foundations of Discrimination Law,
+ed. Deborah Hellman and Sophie Moreau (Oxford: Oxford University Press, 2013), 203–
+27; and Erin Beeghly, “Failing to Treat Persons as Individuals,” Ergo 26 (2018): 687–711.
+      22. When the defendant identifies with their group, as they might in the case of Eth-
+nicity, they may be understandably reluctant to attempt to distinguish themselves from
+their group, even when they could. To avoid forcing defendants to choose between distanc-
+ing themselves from a group they identify with and defending themselves as effectively as
+possible, perhaps Ethnicity and other forms of profile evidence where defendants are likely
+to identify with their group should not be admissible. But this reasoning would not extend
+to other examples of profile evidence like Bad Environment and Prior Burglary.
+      23. For an account that relies on the moral requirement to treat defendants as indi-
+viduals without falling prey to the objection we raise here, see Sarah Moss, Probabilistic
+Knowledge (Oxford: Oxford University Press, 2018), 201–30. Moss acknowledges that fact
+finders could use profile evidence without failing to treat the defendant as an individual,
+so long as they were alive to the possibility that the defendant is an exception to the gen-
+eralization. The problem, according to Moss, is instead that when they are alive to this pos-
+sibility, it becomes impossible for them to gain knowledge of a defendant’s guilt, and legal
+proof requires knowledge. If legal proof without knowledge would wrong defendants,
+Moss’s account is potentially a competitor to our own, but as will become clear, one note-
+worthy difference is that our account entails that the use of profile evidence would wrong
+defendants regardless of whether they are ultimately convicted.
+                                        Di Bello and O’Neil       Profile Evidence 155
+III. EQUAL PROTECTION
+
+Neither the deterrence approach nor the autonomy approach seems able
+to fully capture our resistance to the admissibility of profile evidence. We
+now turn to our own proposal. We will present an argument for what
+we call a “right to equal protection”—that is, a comparative right belonging
+to innocent defendants not to be exposed to higher risks of mistaken
+conviction than other innocent defendants facing comparably serious
+charges. Our strategy will be to first describe a noncomparative right not
+to be exposed to an excessive risk of mistaken conviction, which we call a
+“right to due protection.” Then we will identify an intuitive, fairness-based
+complaint that cannot be explained by this noncomparative right and that
+can only be explained by ascribing to innocent defendants a comparative
+right to equal protection. Equal protection, then, is our interpretation of
+what equality before the law demands in the context of criminal trials. As
+we will see in the next section, it is this comparative right to equal protec-
+tion that would be infringed by rules of evidence that allow profile evidence
+to be introduced at trial.
+
+A
+Criminal trials aim at accurate verdicts, that is, at convicting the guilty
+and only the guilty. Trials are fallible, however, and inevitably some defen-
+dants will be mistakenly convicted of a crime they did not commit. This
+does not mean that the trial system cannot be justified to innocent defen-
+dants. While innocent defendants cannot demand not to be exposed to
+any risk of mistaken conviction at all, they do have certain rights against
+these risks.24 We will understand the risks of mistaken conviction from the
+ex ante perspective of lawmakers who design the trial system (more on this
+later). From this perspective, the risks of mistaken conviction are a function
+of the procedural protections that are provided to defendants, such as the
+standard of proof, the voting rule for juries, and the rules of evidence.25
+      Innocent defendants clearly have a right against being exposed to
+an excessive or undue risk of mistaken conviction, but what counts as an
+excessive risk? Unless we are prepared to reduce the risk to zero by abol-
+ishing prosecution, we must concede that a risk greater than zero is not
+excessive if it would be too costly to reduce it further. To decide whether
+a risk-reducing protection is too costly, we need to balance its costs—which
+can be direct, such as the costs of providing legal representation to indigent
+
+     24. The risk of mistaken conviction for innocent defendants is the conditional prob-
+ability Pr(C/I) that if a defendant is factually innocent (abbreviated I), the defendant is
+convicted (abbreviated C).
+     25. For the view that procedural rights are derivative substantive rights against risks,
+see Larry Alexander, “Are Procedural Rights Derivative Substantive Rights?,” Law and Phi-
+losophy 17 (1998): 19–42.
+156       Ethics       January 2020
+defendants, or indirect, such as the costs of increased crime—against the
+importance of avoiding mistaken convictions.26 We accept the standard view
+that, on any given charge, avoiding mistaken convictions is not only very
+important but also relatively more important than avoiding mistaken
+acquittals.27 Innocent defendants, then, have a right against being ex-
+posed to a level of risk whose further reduction would be cost justified,
+in light of the special importance of avoiding mistaken convictions. We
+call this the “right to due protection.”
+      Since both of the factors that must be balanced in determining due
+protection—that is, the importance of avoiding mistaken convictions and
+the costs of protection—can vary across categories of defendants, the right
+to due protection is compatible with two types of inequalities in the risks
+of mistaken conviction. First, it might be more important to avoid mis-
+taken convictions for some defendants than others, depending on the
+gravity of the charges against them. For example, avoiding mistaken con-
+victions for murder may be more important than avoiding mistaken con-
+victions for petty theft, since the condemnation and punishment associ-
+ated with murder convictions are much worse. Insofar as due protection is
+sensitive to the importance of avoiding mistaken convictions, what would
+count as an excessive risk of mistaken conviction for defendants facing
+murder charges might not count as an excessive risk for defendants fac-
+ing charges of petty theft. Due protection would therefore permit the lat-
+ter defendants to be exposed to a higher risk of mistaken conviction than
+the former.28
+      Secondly, among defendants charged with comparably serious crimes,
+there can be predictable differences in the costs, whether direct or indi-
+rect, of achieving a given level of protection. In terms of direct costs, it
+may be more expensive to protect poor defendants who do not speak En-
+glish than poor defendants who do speak English, because they may need
+to be provided with a translator as well as a public defender in order to
+enjoy a similar level of protection.29 In terms of indirect costs, since some
+groups of defendants have higher recidivism rates than others, mistaken
+acquittals of defendants from such groups could lead to more crime than
+mistaken acquittals of defendants who do not belong to any of these
+
+      26. Many procedures that reduce the risk of mistaken convictions also increase the
+risk of mistaken acquittals. Retributivist theories would conceive of the indirect costs asso-
+ciated with mistaken acquittals differently, for example, as guilty defendants failing to re-
+ceive the censure they deserve.
+      27. On this, see Adam Omar Hosein, “Doing, Allowing, and the State,” Law and Phi-
+losophy 33 (2014): 239–40; Dworkin, “Principle, Policy, and Procedure”; Antony Duff, Trials
+and Punishments (Cambridge: Cambridge University Press, 1986).
+      28. Due protection would permit this inequality only on the assumption that the costs
+of mistaken acquittals on these different charges were roughly the same, as they could be if,
+say, the recidivism rate for property crimes is much higher than for murder.
+      29. See the amicus brief by the ACLU in the case Annie Ling v. Georgia, case n. S10-
+C0460 (2010).
+                                       Di Bello and O’Neil       Profile Evidence 157
+groups. Since due protection is sensitive to costs, it would allow defen-
+dants whose protection is more costly to be exposed to higher risks of mis-
+taken conviction than defendants whose protection is less costly, even
+when they are facing the same charges.
+
+B
+In order to determine whether defendants have, in addition to the right
+to due protection, a comparative right against risks, we need to consider
+whether either of the two inequalities described above is objectionable.
+We do not think that an inequality in risks of mistaken conviction that
+merely reflects differences in the importance of avoiding mistaken con-
+victions would be unfair to the defendants charged with minor crimes. If
+trial procedures were to be adjusted by setting the standard of proof lower
+for, say, minor than for major charges, those accused of minor crimes would
+be subject to higher risks compared to those accused of major crimes, but
+they would not necessarily be disadvantaged since a mistaken conviction
+may also be less bad for them.30
+      By contrast, inequalities that reflect differences in the costs of pro-
+tection do strike us as objectionable. To make this apparent, we will fo-
+cus on the example about variation in indirect costs of protection due to
+defendants’ different recidivism rates. There are a number of factors as-
+sociated with higher recidivism, such as age, gender, neighborhood, em-
+ployment, and level of education. Mistaken acquittals of guilty defendants
+without a college education, for example, would lead to more crime than
+mistaken acquittals of guilty college-educated defendants.31 Since the cost
+of mistakenly acquitting defendants without a college education is then
+predictably greater than mistakenly acquitting defendants with a college
+education, due protection would, in principle, permit a lower standard of
+proof for defendants without a college education than for college-educated
+defendants, even when they are charged with comparably serious crimes.32
+The lower standard of proof would genuinely disadvantage innocent de-
+fendants without a college education, and intuitively, they would have
+grounds for complaint. Exposing one category of innocent defendants to
+higher risks of mistaken conviction than others simply because they are
+more costly to protect seems unfair.
+      We should make clear that this intuition is about their exposure to
+higher risks, and not just a reflection of a prior belief that the standard
+     30. In actual practice the standard of proof is fixed, but some commentators have rec-
+ommended a higher standard of proof for major than for minor charges; see H. L. Ho, A
+Philosophy of Evidence Law (Oxford: Oxford University Press, 2008), 173–229.
+     31. See Lance Lochner and Enrico Moretti, “The Effect of Education on Crime: Evi-
+dence from Prison, Inmates, Arrests, and Self-Reports,” American Economic Review 94 (2004):
+155–89.
+     32. Due protection permits but does not require this inequality. The state could
+equalize risks without violating due protection by giving defendants without a college ed-
+ucation more protection than they are due.
+158        Ethics       January 2020
+of proof should for some other reason be fixed.33 Even if the standard
+of proof were fixed across defendants while the risks of mistaken convic-
+tion were adjusted in other ways, such as by assigning six jurors to defen-
+dants without a college education and twelve jurors to college-educated
+defendants or by varying the jury voting rule from majority to unanimity,
+defendants without a college education could still voice the same com-
+plaint.34 Since the complaint of defendants without a college education
+would seem to depend essentially on the fact that college-educated de-
+fendants facing the same charges were treated more favorably, the expla-
+nation we favor is that innocent defendants possess a certain comparative
+right against risks. Specifically, we maintain that equality before the law, or
+comparative fairness, demands what we have labeled “equal protection”:
+that innocent defendants not be exposed to higher risks of mistaken con-
+viction than other innocent defendants facing the same charges or com-
+parably serious charges.
+      This right to equal protection, as we have defined it, differs in an im-
+portant way from another comparative right that is often cited in connec-
+tion with criminal procedure, namely, a right to equal consideration. This
+other right is infringed when a distribution of risks cannot be defended
+except on the prohibited assumption that some defendants’ interests in
+avoiding mistaken conviction are less worthy of consideration than other
+defendants’ comparable interests.35 We agree that defendants possess a
+comparative right to equal consideration in this sense, but this right can-
+not explain the complaint of the defendants without a college education.
+The choice to impose higher risks of mistaken conviction on defendants
+without a college education need not reflect a view that their interests in
+
+      33. Some argue that fact finders should deliver a guilty verdict only if they fully believe
+or know that the defendant is guilty, no matter the gravity of the charge, and that a variable
+standard of proof would conflict with this requirement; see Antony Duff et al., The Trial on
+Trial (London: Hart, 2007), 3:89–90. Even if Duff et al. are correct about this, this concern
+would not extend to altering the number of jurors or the voting rule, since these measures
+are consistent with every fact finder voting guilty only if they fully believe in the defendant’s
+guilt.
+      34. Their complaint cannot be about the mere fact that they are being tried under
+different procedures either. For suppose lawmakers knew that six jurors operating under
+a unanimity voting rule were just as likely, in relation to any given body of evidence, to re-
+turn a guilty verdict as twelve jurors operating under a majority voting rule. If these differ-
+ent procedures delivered exactly the same degree of protection and there was no insulting
+motivation behind the choice of different procedures, defendants tried under these differ-
+ent procedures could have no objection.
+      35. For versions of what we’re labeling a comparative right to “equal consideration,”
+see Dworkin, “Principle, Policy, and Procedure,” 89; and Scanlon, Why Does Inequality Mat-
+ter?, 11–25. For a useful discussion of Dworkin, see Sari Kisilevsky, “Balancing Security and
+Liberty: Trying Foreign Enemy Combatants in Military Commissions,” Public Affairs Quar-
+terly 31 (2017): 19–50. Due protection and equal consideration are distinct. If some groups
+are given more protection than is worth the costs, while others are given exactly the level
+of protection that is worth the costs, this would violate equal consideration but not due
+protection.
+                                         Di Bello and O’Neil         Profile Evidence 159
+avoiding mistaken convictions are less worthy of concern than the inter-
+ests of college-educated defendants facing similarly serious charges, but
+only a difference in the costs of providing the same level of protection.
+Thus, in order to explain why defendants without a college education
+would have the complaint they do, we need to appeal to a comparative
+right to equal protection.36
+
+C
+Equal protection is our interpretation of what equality before the law, or
+comparative fairness, demands in the context of the criminal trial. In the
+next section, we will explain why the admissibility of profile evidence
+would infringe the right to equal protection. Before we turn to that dis-
+cussion, a few final clarifications are in order.
+      First, the conception of risk that is deployed in the content of the
+right to equal protection is neither purely subjective nor purely objec-
+tive, but rather epistemic in the sense that it should be assessed from the
+evidence-relative perspective of a reasonable person. As others have ar-
+gued, an epistemic conception of risk is the most suitable conception for
+the morality of risk imposition in general.37 And in our view, such a concep-
+tion is also especially apt for interpreting equal protection, since equality
+before the law demands impartiality, and only securing equal epistemic
+risks of mistaken conviction would adequately express the state’s commit-
+ment to impartiality.38
+
+       36. Since some defendants lacking a college education will also possess characteristics
+that are known to reduce the risk of recidivism, such as being older or being female, they
+might complain that lawmakers have failed to treat them as individuals. But suppose that
+all the characteristics of each defendant were entered into the best available algorithm to
+predict the chances of recidivism if guilty, and on that basis each defendant was assigned
+either six or twelve jurors. It would still be the case that defendants without a college educa-
+tion would be at higher risk of mistaken conviction than college-educated defendants, since
+they would be at higher risk of being assigned six jurors by the algorithm. And they would
+still, in our view, have a complaint against these higher risks, even though they could not
+say that the system failed to treat them as individuals, since by hypothesis the algorithm
+did not neglect any of the available finer-grained evidence bearing on their risk of recidivism.
+       37. See John Oberdiek, Imposing Risk: A Normative Framework (Oxford: Oxford Univer-
+sity Press, 2017). This epistemic or “evidence-relative” conception of risk is neither fact-
+relative (purely objective), which would require lawmakers to act on whatever the correct be-
+liefs about the objective probabilities would be, nor belief-relative (purely subjective), which
+would only require lawmakers to act on whatever degrees of belief they happened to have.
+       38. If the epistemic risks from the perspective of lawmakers were unequal, they could
+not claim to be impartial even though, unbeknownst to them, the objective risks were equal.
+The same is true if the epistemic risks were unequal yet the subjective risks were equal only
+because the lawmakers had buried their heads in the sand. The lawmakers could, however,
+claim to be impartial if the epistemic risks were equal even though the trial process was de-
+terministic and every defendant was either objectively certain to be convicted or acquitted. See
+David Wasserman, “Let Them Eat Chances: Probability and Distributive Justice,” Economics
+and Philosophy 12 (1996): 29–49, for an argument along similar lines that the fairness of lot-
+teries depends on the way they distribute epistemic rather than objective chances.
+160       Ethics        January 2020
+       Second, since the right to equal protection is supposed to guide the
+design of criminal procedure and evidence law, the risks of mistaken con-
+viction should be assessed in light of the information available to reason-
+able lawmakers, such as legislators and appellate court judges who set le-
+gal precedent. This information will inevitably be limited. As they design
+criminal procedure and evidence law, lawmakers cannot predict the iden-
+tities of future defendants in criminal trials or the circumstances of par-
+ticular future crimes. What they can know, from their ex ante point of
+view, are the following: that some of the defendants will be or could be
+innocent, what types of defendants there are or might be (so long as those
+types are specifiable without reference to the circumstances of particular
+crimes),39 what kinds of evidence there could be, and other general facts,
+such as what prosecutors and defense attorneys are likely to do in response
+to the rules of evidence and how fact finders would respond to bodies of
+evidence. For equal protection to guide lawmakers’ decisions about the
+rules of trial procedure, then, the risks to innocent defendants must be
+assessed from lawmakers’ incompletely informed ex ante perspective.40
+       The third clarification is that equal protection, as we have defined
+it, is a right that innocent people possess as defendants. It could be in the
+interests of some categories of innocent citizens that they be exposed to
+higher risks of mistaken conviction, should they ever become defendants.
+For example, setting a lower standard of proof for defendants without
+a college education would expose innocent defendants in that category
+to a higher risk of mistaken conviction, but it would also lower the risk that
+guilty defendants without a college education would get away with their
+crimes. If the main victims of guilty people without a college education
+were innocent people without a college education, this could work out to
+the net benefit of innocent people without a college education. Perhaps
+higher risks of mistaken conviction could be justified in this way to in-
+nocent citizens without a college education, who might become but are
+
+      39. Knowing that there are or could be defendants belonging to a certain ethnicity,
+having a certain socioeconomic status or criminal record is possible without knowing the
+details of any particular crime or the identities of any particular defendant.
+      40. Even when the risks are equal from the ex ante point of view of lawmakers, there
+will inevitably be downstream inequalities in outcomes: some innocent defendants will be
+convicted and other innocent (and guilty) defendants will be acquitted. There will also in-
+evitably be more incriminating evidence against some innocent defendants than others.
+But notice that there is no way for lawmakers (or anyone else) to redress these downstream
+inequalities without knowing the identities of the innocents, short of abandoning prosecu-
+tion entirely. By contrast, it is possible to redress inequalities in the ex ante risks of mis-
+taken conviction across categories of innocent defendants by adjusting criminal trial proce-
+dure. It is enough to know that there are or could be innocent defendants in each category.
+Since the procedures apply to everyone, lawmakers can know whether there is an inequality
+in the ex ante risk of mistaken conviction and how to correct it without knowing who the
+innocent defendants are.
+                                         Di Bello and O’Neil         Profile Evidence 161
+not currently defendants. But the criminal trial is a distinct stage in the
+criminal justice process, and equality before the law asserts itself at each
+stage.41 This means that the higher risks of mistaken conviction must also
+be justified to those citizens who have now become innocent defendants,
+and this cannot be done, because while those higher risks may have been in
+their interests as citizens, they are no longer in their interests as defen-
+dants.42 Thus, unequal risks of mistaken conviction, whether brought about
+by a lower standard of proof, fewer jurors, or, as we will see in the next sec-
+tion, the admissibility of profile evidence, remain unfair to those innocent
+defendants who are at a higher risk, even if these measures were in their
+interests as assessed from an earlier stage in the criminal justice process.
+      Finally, it is only innocent defendants who possess the right to equal
+protection, as we have defined it. Guilty defendants, whoever they are,
+are at no risk of mistaken conviction, so they are not covered by equal pro-
+tection. Of course, since lawmakers do not know who is innocent and who
+is guilty, they cannot respect the rights of innocent defendants without
+extending the same protections to all defendants, innocent and guilty.
+But are guilty defendants also entitled to something analogous to equal
+protection? Since guilty defendants have no grounds for complaint if the
+trial system exposes them to a higher risk of conviction than innocent de-
+fendants, as any reliable trial system would, equality before the law can-
+not require that everyone, guilty and innocent alike, be exposed to equal
+risks of conviction. But perhaps guilty defendants have a right not to be
+exposed to higher risks of correct conviction than other guilty defendants
+facing comparable charges. We have less confidence that guilty defen-
+dants possess a right to equal chances of avoiding conviction for a crime
+they did commit than that innocent defendants have a right to equal pro-
+tection, and we also have less confidence that guilty defendants would be
+wronged by the use of profile evidence.43 This is why we concentrate on
+
+     41. Ex ante contractualists may need to require justifiability to a person at each time
+to avoid endorsing multistage schemes that are in everyone’s ex ante interest in the first
+stage but severely burden a few in the second stage, e.g., a lottery that selects 10 patients
+from 100 on which to perform deadly experiments in order to save the other 90. See
+Johann Frick’s “Decomposition Test,” defended in “Contractualism and Social Risk,” Phi-
+losophy and Public Affairs 43 (2015): 201–12. We believe that the same point has application
+to the stages of the criminal justice system.
+     42. A consideration that might, by contrast, be capable of justifying a higher risk of mis-
+taken conviction to a group of defendants qua defendants would be that exposing them to a
+higher risk (comparatively speaking) is necessary to lower their absolute risk of mistaken
+conviction. But such a defense is not available for admitting profile evidence at trial.
+     43. This is not because we doubt that guilty defendants could have any procedural
+rights at all. But see Christopher H. Wellman, Rights, Forfeiture, and Punishment (Oxford:
+Oxford University Press, 2017), 91–119, for the view that guilty defendants have no proce-
+dural rights, and see David Enoch, “In Defense of Procedural Rights (or Anyway, Procedural
+Duties): A Response to Wellman,” Legal Theory 24 (2018): 40–49, for a rejoinder.
+162        Ethics         January 2020
+innocent defendants. However, the objection to profile evidence on be-
+half of innocent defendants that we develop below could easily be ex-
+tended to guilty defendants by ascribing them a right to equal risks of cor-
+rect conviction.
+
+IV. AGAINST ADMITTING PROFILE EVIDENCE
+
+Having defended the right to equal protection, we will now explain why
+admitting profile evidence would conflict with it. Since it is legislators
+and appellate courts setting precedents that decide evidence law, our ob-
+jection is addressed to these lawmakers. We will begin by offering an ar-
+gument against admitting incriminating profile evidence and then turn
+to exculpatory profile evidence.
+
+A
+As a starting point, imagine a trial system whose rules forbade profile ev-
+idence from being admitted during trial proceedings. If the system were
+changed so that profile evidence became admissible, what would be the
+consequences for defendants? By making incriminating profile evidence
+admissible, the trial system would allow prosecutors to present an addi-
+tional form of evidence that was probative of guilt. For example, it would
+allow prosecutors to present the profile evidence in Bad Environment that
+expresses a positive correlation between fitting profile BE—that is, being
+male, addicted to drugs, and unemployed and having grown up in a bro-
+ken home—and committing a violent crime. Presenting this evidence at
+trial would increase, sometimes significantly, the probability of guilt of de-
+fendants who fit profile BE.44
+      Assuming that prosecutors would take advantage of opportunities to
+present evidence of guilt, making profile evidence admissible would mean
+that Bad Environment evidence would now be presented against defen-
+dants who match the relevant profile and have been charged with a vio-
+lent crime.45 By contrast, the chances that prosecutors would present the
+same profile evidence against defendants who are charged with the same
+crime but who do not fit profile BE would be zero, since this profile evi-
+dence could not be probative of these defendants’ guilt.
+      The difference just identified between defendants who fit profile
+BE and defendants who do not fit this profile can be known ex ante, in
+
+
+      44. See note 7.
+      45. If the evidence is admissible, the probability that the prosecutor presents the ev-
+idence at trial is a function of three probabilities: (i) the probability that the evidence ex-
+ists; (ii) the probability that if it exists, it is discovered; and (iii) the probability that if it is
+discovered, the prosecutor presents it at trial.
+                                  Di Bello and O’Neil   Profile Evidence 163
+advance of any particular trial or criminal investigation. Without knowing
+the circumstances of any particular violent crimes, lawmakers can still
+know that if an individual who matches profile BE were to become a de-
+fendant charged with a violent crime, this defendant would be at a higher
+risk of incrimination by Bad Environment profile evidence than would a
+defendant who does not match profile BE. This difference in the risk
+of incrimination would apply broadly to all defendants, and thus also
+to innocent defendants. Making profile evidence such as Bad Environment
+admissible across trials would therefore increase the ex ante risk that an
+additional kind of incriminating evidence would be presented against
+innocent defendants, but only against the innocents who fit profiles such
+as BE.
+      Now suppose that fact finders’ decisions to convict are rationally cal-
+ibrated with the probative value of the overall body of evidence presented
+at trial. When the fact finders are rationally calibrated with the body of
+evidence, the more probative of guilt the body of evidence is, the more
+likely the defendant will be convicted, while the less strongly probative
+of guilt the body of evidence is, the less likely the defendant will be con-
+victed. This has important consequences for the distribution of the ex
+ante risks of mistaken conviction. Since admitting evidence that shows
+a positive correlation between fitting profile BE and committing a violent
+crime would make the overall body of evidence more probative of guilt,
+this admission should, by calibration, increase the risk of mistaken convic-
+tion for the innocents who fit profile BE. However, it would not increase
+the risk of mistaken conviction for innocents who do not fit this profile.
+And the more Bad Environment evidence adds to the probative value of
+the overall body of evidence, the more its admission should, again by cal-
+ibration, increase the risk of mistaken conviction for the innocent defen-
+dants who fit profile BE.
+      This conclusion applies not only to defendants who fit profile BE
+but also to any defendant who fits a profile that is positively correlated
+with committing a violent crime. Any such defendant would be subject
+to an increased risk of mistaken conviction for violent crimes. But, cru-
+cially, this increased risk would also be limited to those defendants. Inno-
+cent defendants charged with violent crimes who were fortunate enough
+to not fit any profile that was positively correlated with committing a vi-
+olent crime would be immune to incrimination by profile evidence.
+      The same argument we gave for profiles correlated with violent
+crimes can also be applied to profiles correlated with other types of crimes,
+such as Ethnicity and drug smuggling, Prior Burglary and burglary, and so
+on. The profiles in question may pick out features that structure interac-
+tions across a wide range of social contexts, such as ethnicity, gender, age,
+and class. But they might also pick out features that are not socially salient
+164       Ethics        January 2020
+at all, such as genetic characteristics.46 All that is required for the argu-
+ment to apply is that it be possible for lawmakers to distinguish, in ad-
+vance of particular trials, between those who fall under a profile positively
+correlated with a type of crime and those who do not.
+
+B
+We can now see why admitting incriminating profile evidence at trial
+would conflict with defendants’ right to equal protection. We have seen
+that the admission of profile evidence would increase the ex ante risk of
+mistaken conviction for all and only innocent defendants who match a
+relevant incriminating profile. This increase in risk would, in turn, expose
+them to a higher risk of mistaken conviction than other innocent defen-
+dants, other things being equal.47 The profiled defendants burdened by a
+higher risk of mistaken conviction, then, would have an equal protection–
+based complaint against a trial system that admitted incriminating profile
+evidence.48 This is our objection to admitting incriminating profile evi-
+dence at trial.49
+
+
+      46. See, e.g., Warrior Gene in note 16.
+      47. If innocent defendants who fit a certain profile antecedently enjoy a lower risk of
+mistaken conviction, the increase in risk brought about by admitting profile evidence
+might reduce, not create, an inequality. But there is no reason to think that admitting pro-
+file evidence would systematically redress imbalances in the prior distribution of risks. In
+fact, since many forms of profile evidence target categories of defendants who may already
+be at a disadvantage, in terms of access to quality legal representation, admitting profile
+evidence would if anything tend to exacerbate antecedent inequalities in the risks of mis-
+taken conviction rather than reduce them.
+      48. The right to equal protection is a right not to be exposed to a higher risk of mis-
+taken conviction than other innocent defendants on trial for comparably serious crimes—
+that is, on trial for the same crime or a different but comparably serious crime. Note that it
+is possible for a type of defendant to be at a higher risk for the same or a comparably se-
+rious crime without being at a higher risk in relation to a class of comparably serious
+crimes. Suppose that A’s are more likely to commit car theft and B’s are more likely to com-
+mit motorcycle theft. If profile evidence is admissible, neither A’s nor B’s will be at higher
+risk of mistaken conviction in relation to the class of comparably serious crimes consisting
+of car theft and motorcycle theft. But A’s on trial for car theft would have an equal protec-
+tion complaint, since A’s would be at higher risk of mistaken conviction for car theft than
+B’s, and B’s on trial for motorcycle theft would have an equal protection complaint, since
+B’s would be at higher risk of mistaken conviction for motorcycle theft than A’s. We thank
+one of the associate editors of this journal for the example.
+      49. Our objection applies to all profile evidence, even when the profile is a matter of
+choice. This might be challenged. An associate editor suggested that the right to equal pro-
+tection should be responsibility sensitive, in the sense that exposing a class of defendants to
+higher risks of mistaken conviction would be acceptable so long as these defendants had a
+fair opportunity to avoid those higher risks. The rules of evidence could then admit profile
+evidence involving profiles that defendants would match only because of earlier choices
+they had made. We do not have an argument against choice sensitivity in the context of
+trial procedure, but we think that recognizing innocent defendants’ equal status requires
+                                         Di Bello and O’Neil       Profile Evidence 165
+     The complaint against admitting incriminating profile evidence
+cannot be justified by appealing to either of the other rights we discussed
+in Section III. It cannot be justified by invoking the noncomparative right
+to due protection because there is no reason to think that admitting in-
+criminating profile evidence would expose innocent defendants to an ex-
+cessive risk of mistaken conviction. Nor can the complaint be justified by
+invoking the comparative right to equal consideration. Equal consider-
+ation, unlike equal protection, is compatible with unequal risks when these
+different risks reflect differences in the costs of protection. Since equal-
+izing these risks by excluding profile evidence would come at a cost in
+terms of mistaken acquittals of the profiled defendants, a choice to leave
+the inequality intact need not imply that the interests of the disadvan-
+taged defendants in avoiding mistaken convictions have been given less
+weight.50
+
+C
+So far we have only discussed profile evidence in its incriminating form,
+but profile evidence can also take an exculpatory form. For example, a
+defendant who attended college might seek to present as exculpatory ev-
+idence the fact that attending college is negatively correlated with com-
+mitting the type of crime they have been accused of. Should profile ev-
+idence in its exculpatory form be inadmissible as well? The law does look
+more favorably on admitting at least certain kinds of exculpatory profile
+evidence, such as good character evidence.51 And we suspect that there
+may be less intuitive resistance to admitting profile evidence that would
+
+
+
+abstracting away from most and perhaps all differences due to choices. Even if all innocent
+defendants who fit crime-correlated descriptions like “lacks a college education,” “is unem-
+ployed,” or “is unmarried” had what could be considered a fair opportunity to avoid falling
+under those descriptions, this would not license exposing these defendants to a higher risk
+of mistaken conviction than innocent defendants who had made different choices in life.
+Even defendants’ earlier illegal choices, as in Prior Burglary, would not warrant exposure to
+higher risks after they have paid their debt to society. We concede, however, that choice
+sensitivity may have more plausibility in relation to certain choices, such as a choice to as-
+sociate with members of a criminal organization. For an example of a principle of fairness
+that is, unlike our principle of equal protection, thoroughly responsibility sensitive, see
+Mogensen, “Racial Profiling.”
+     50. As a referee has pointed out, if lawmakers knew that there would be only one trial
+and knew the identity of the only defendant, then a decision to admit profile evidence
+against that defendant would not be vulnerable to our objection. If using profile evidence
+against that defendant still seems objectionable, our account cannot capture that objec-
+tion. But if there were a second trial, and the lawmakers decided to admit profile evidence,
+knowing that it could only be used against the first and not the second defendant, the first
+defendant would surely have a stronger complaint, and our account can capture that.
+     51. See, e.g., Federal Rules of Evidence, Rule 404(a)(1).
+166       Ethics       January 2020
+exculpate rather than incriminate defendants. After all, since the admis-
+sibility of exculpatory profile evidence could only help innocent defen-
+dants, not hurt them, who could object? As we will explain below, how-
+ever, there are defendants who could have legitimate objections to the
+admissibility of exculpatory profile evidence.
+      Notice first that, even if incriminating profile evidence were inad-
+missible, the admissibility of exculpatory profile evidence could still in-
+crease the risk of mistaken conviction for defendants who fit incriminat-
+ing profiles in the following way. If exculpatory profile evidence were
+admissible, fact finders might infer from the fact that it was not presented
+by the defense that the defendant must fall under an incriminating pro-
+file. For example, if it were customary for the defense to announce that a
+defendant had no criminal record whenever a defendant had no criminal
+record, fact finders could infer from the absence of such an announce-
+ment in a particular case that the defendant in this case must have a crim-
+inal record.52 Thus, admitting exculpatory profile evidence could have
+the same effect on defendants who fit incriminating profiles that admit-
+ting incriminating profile evidence would.
+      But suppose that we could prevent this effect by instructing fact find-
+ers not to draw any adverse inferences from the fact that no exculpatory
+profile evidence was presented on behalf of a defendant, just as they are
+instructed not to draw adverse inferences from the fact that a defendant
+chose not to testify. If these instructions were effective, then admitting
+exculpatory profile evidence would not increase the risk of mistaken con-
+viction for defendants who fit incriminating profiles, and it would only
+reduce the risk for defendants who fit exculpatory profiles. Who, then,
+could be wronged? Obviously defendants who fit exculpatory profiles,
+such as defendants who have graduated from college, would have no com-
+plaint. But if we take up the perspective of defendants who are just as in-
+nocent but cannot avail themselves of this exculpatory evidence because
+they are not college graduates, we can begin to see how the admissibility
+of exculpatory evidence could be unfair to them. Our account can cap-
+ture their complaint, since the right to equal protection is a right not
+to be exposed to a higher risk of mistaken conviction than other innocent
+defendants, and innocent defendants can be exposed to a higher risk ei-
+ther because their risk was increased or because the risk to other defen-
+dants was lowered.
+      Still, incriminating profile evidence and exculpatory profile evi-
+dence are not entirely on a par. Banning incriminating profile evidence
+would realize equal protection by enhancing or “leveling up” the level of
+
+    52. An anonymous reviewer made this point. For further discussion, see Larry Laudan
+and Ronald J. Allen, “The Devastating Impact of Prior Crimes Evidence and Other Myths of
+the Criminal Justice Process,” Journal of Criminal Law and Criminology 101 (2013): 493–528.
+                                       Di Bello and O’Neil       Profile Evidence 167
+protection (i.e., reducing the level of risk) for some, namely, defendants
+who match incriminating profiles. By contrast, banning exculpatory pro-
+file evidence would realize equal protection by reducing or “leveling
+down” the level of protection (i.e., increasing the level of risk) for some,
+namely, defendants who match exculpatory profiles. That equal protec-
+tion may demand leveling down as well as leveling up just follows from
+the fact that it is a genuinely comparative right. But rights like equal pro-
+tection can be overridden, and there is reason to think that the case for
+admitting exculpatory profile evidence may be strong enough to over-
+ride equal protection’s demand that this evidence be excluded.
+      The case for admitting exculpatory profile evidence might, for ex-
+ample, appeal to the right to due protection, which calls for measures
+that reduce the risk of mistaken conviction, so long as they are cost justi-
+fied. Admitting exculpatory profile evidence is a measure that would re-
+duce the risk of mistaken conviction for defendants who fit exculpatory
+profiles, and although admitting this evidence would result in mistaken
+acquittals, there is no reason to think that it would result in more mistaken
+acquittals than would other forms of exculpatory evidence that are rou-
+tinely admitted at trial.53 If due protection does demand admitting ex-
+culpatory profile evidence, then there would be a conflict between the
+due protection rights of those who fit exculpatory profiles and the equal
+protection rights of those who do not. Arguably the due protection rights
+should prevail and exculpatory profile evidence ought to be admitted, all
+things considered, even though this would be unfair to some defendants.54
+There could not, by contrast, be a conflict between due protection and
+equal protection in the case of incriminating profile evidence, since no
+one’s due protection rights could demand that incriminating profile evi-
+dence be admitted.
+      We have seen that admitting incriminating profile evidence would
+create an inequality in the distribution of the risks of mistaken convic-
+tion, and that admitting exculpatory profile evidence would do so as well.
+But what would be the overall effect on the risks of mistaken conviction
+of admitting both forms of profile evidence? Defendants who are accused
+
+     53. If Enoch and Fisher are right that admitting profile evidence would also compro-
+mise deterrence to some extent, then admitting exculpatory profile evidence could be
+more costly than admitting other forms of exculpatory evidence, and it is at least possible
+that due protection could require admitting other forms of exculpatory evidence but not
+profile evidence.
+     54. If we treat the demands of equality here as contingent on the availability of mea-
+sures that would not infringe anyone else’s noncomparative rights, as some egalitarians
+have recommended in other contexts (see Matthew Clayton, “Equality, Justice and Legiti-
+macy in Selection,” Journal of Moral Philosophy 9 [2012]: 8–30), equal protection may not
+even demand banning exculpatory profile evidence. Due protection is one candidate non-
+comparative right. A basic liberty belonging to innocent defendants to mount a defense to
+the best of their ability is another.
+168       Ethics       January 2020
+of a crime may fit some profiles that are incriminating and some profiles
+that are exculpatory. Conceivably, there could be a defendant for whom
+every incriminating profile that they fit is exactly canceled out by another
+exculpatory profile that they also fit. But for almost all defendants, tak-
+ing into account both incriminating and exculpatory profile evidence
+would make a defendant’s guilt, on balance, either more probable or less
+probable than it would be without that evidence.55 By calibration, then,
+admitting both forms of profile evidence should increase the risk of mis-
+taken conviction for some innocent defendants and decrease it for others,
+thereby creating inequalities in the risks of mistaken conviction across in-
+nocent defendants.
+
+V. IS PROFILE EVIDENCE UNIQUE?
+
+Our argument against admitting incriminating profile evidence rests on
+a simple idea. From their ex ante perspective, lawmakers can predict that
+some defendants, including innocent ones, will be incriminated by pro-
+file evidence because they fit an incriminating profile. The lawmakers
+can also predict that other defendants will not be incriminated by profile
+evidence because they do not fit an incriminating profile. As a conse-
+quence of admitting profile evidence, then, those defendants who fit in-
+criminating profiles will be exposed to a higher risk of mistaken conviction
+than other defendants, thus violating their rights to equal protection.56
+      But is profile evidence unique in this respect, or do other kinds of
+evidence that are routinely admitted at trial, such as eyewitness testimony,
+trace evidence, and motive evidence, also violate equal protection? There
+is a critical difference between profile evidence and other kinds of evi-
+dence, namely, lawmakers can know in advance of particular trials who
+can and who cannot be incriminated by profile evidence, but they can-
+not know who can and who cannot be incriminated by eyewitness testi-
+mony, trace evidence, or motive evidence. This critical difference will be
+key to understanding why admitting profile evidence at trial would yield
+unequal risks of mistaken conviction, while admitting these other kinds
+of evidence would not.
+
+A
+We begin with eyewitness testimony evidence, which is probative of a de-
+fendant’s guilt when the defendant fits the physical description of the
+
+     55. Assuming that incriminating features tend to cluster together, if someone were to
+fit one incriminating profile such as Bad Environment, that would make it more likely that
+they fit other incriminating profiles and less likely that they fit exculpatory profiles.
+     56. Admitting exculpatory profile evidence will infringe the equal protection rights of
+defendants who do not fit exculpatory profiles, but since their rights are more likely to be
+overridden, we focus here on profile evidence in its incriminating form.
+                                         Di Bello and O’Neil       Profile Evidence 169
+perpetrator that has been provided by an eyewitness. This is a fallible form
+of evidence, in the sense that an innocent defendant could be mistakenly
+incriminated by it. But there is no way for lawmakers to know in advance
+of particular trials what, if any, physical descriptions of the culprit would
+be given by eyewitnesses. Since any physical description could be incrim-
+inating if it is provided by an eyewitness to the crime the defendant is ac-
+cused of, there is no innocent defendant who is immune to mistaken in-
+crimination by this form of evidence.
+      The same can be said of trace evidence. When physical traces are
+found at a crime scene, they will be analyzed for certain characteristics
+that are statistically uncommon, such as genetic profiles or fingerprint
+patterns. If the defendant matches the traces—that is, if the defendant
+and the traces share the relevant characteristic—the match will be incrim-
+inating. Trace evidence, like eyewitness testimony, is fallible. An analyst
+might have made a mistake, or the perpetrator and an innocent defen-
+dant might coincidentally share the same characteristic. But again, as with
+eyewitness testimony, there is no type of defendant who is immune to be-
+ing mistakenly incriminated by trace evidence. For example, anyone with
+DNA could be incriminated by DNA evidence—it all depends on whether
+their DNA matches the DNA of a sample found at a crime scene.
+      So we see that both eyewitness testimony and trace evidence differ
+from profile evidence because, from the ex ante perspective of lawmak-
+ers, any type of innocent defendant can be mistakenly incriminated by
+them. This is important since our argument in Section IV against admit-
+ting profile evidence relied on the premise that this evidence cannot mis-
+takenly incriminate any type of defendant but can only incriminate de-
+fendants who fit incriminating profiles. Since the same premise is not
+true of eyewitness testimony and trace evidence, the same argument can-
+not be used to show that admitting these forms of evidence would violate
+equal protection.
+
+B
+The fact that profile evidence can only incriminate some types of defen-
+dants distinguishes it from a variety of kinds of evidence, even those that
+would seem to resemble profile evidence quite closely.57 Consider motive
+
+
+      57. The literature about statistical evidence at trial often discusses hypothetical sce-
+narios such as Gatecrasher. Suppose camera footage shows that, on a particular day and
+time, one thousand people gathered in a stadium, but the ticket sales indicate that only
+fifty tickets were purchased. This means that 95 percent of the people in the stadium that
+day entered illegally by crashing the gates. Although we cannot tell who gatecrashed and
+who did not, it is very likely that any spectator picked at random did gatecrash. Our argu-
+ment in Sec. IV that admitting profile evidence would violate equal protection does not
+apply to Gatecrasher-like evidence because this kind of evidence can incriminate any
+170       Ethics       January 2020
+evidence, such as “the defendant recently fought with the murder vic-
+tim” or “the defendant stood to gain financially from the death of the vic-
+tim.” Both motive evidence and profile evidence exploit generalizations
+about what people who are similar to the defendant in some respect are
+more likely to do. Just as profile evidence can incriminate only defen-
+dants who fit profiles correlated with the types of crime they are accused
+of, motive evidence can incriminate only defendants who fit descriptions
+like “fought with the victim” or “stood to gain financially from the death
+of the victim.” The resemblance between profile evidence and motive ev-
+idence is so close that scholars have struggled to find reasons for why the
+two kinds of evidence should be treated differently at trial.58
+      Despite the close resemblance between profile evidence and motive
+evidence, we should not overlook a crucial difference between them
+which can be brought into clear focus by taking into account the ex ante
+perspective of lawmakers. Lawmakers can know, in advance of particu-
+lar crimes, who would fit and who would not fit an incriminating profile.
+Defendants who do not fit any profile that is correlated with the type of
+crime they are accused of will be immune to mistaken incrimination by
+profile evidence. But lawmakers cannot know, in advance of particular
+crimes with particular victims, who would fall under such descriptions
+as “fought with the victim” or “stood to gain financially from the death
+of the victim.” Whether someone falls under some such description
+for a crime they are accused of will depend on the circumstances of that
+particular crime, and because the circumstances of particular crimes will
+vary, any innocent person could find themselves falling under some such
+
+defendant. From the ex ante point of view of lawmakers, there is no defendant who could
+not be incriminated by this evidence since anyone could find themselves at some event
+or other where a significant proportion of the attendees committed a certain crime. Those
+who regard profile evidence and Gatecrasher-like evidence as entirely on a par might insist
+on a unified account of their inadmissibility, which we have not provided. Still, the well-
+established intuition in the literature is only that Gatecrasher-like evidence is insufficient
+for a guilty verdict, not that it should be inadmissible. For early work on this puzzle, see,
+e.g., L. J. Cohen, The Probable and the Provable (Oxford: Oxford University Press, 1977);
+Charles R. Nesson, “Reasonable Doubt and Permissive Inferences: The Value of Complex-
+ity,” Harvard Law Review 92 (1979): 1187–1225; Judith Jarvis Thomson, “Liability and Indi-
+vidualized Evidence,” Law and Contemporary Problems 49 (1986): 199–219. For more recent
+work, see, e.g., Moss, Probabilistic Knowledge; Martin Smith, “When Does Evidence Suffice
+for Conviction?,” Mind 127 (2018): 1193–1218; and Clayton Littlejohn, “Truth, Knowledge,
+and the Standard of Proof in Criminal Law,” Synthese (forthcoming). For a risk-based argu-
+ment against convictions that rest on Gatecrasher-like evidence, see Marcello Di Bello, “Trial
+by Statistics: Is a High Probability of Guilt Enough to Convict?,” Mind (forthcoming).
+      58. Michael Redmayne in Character in the Criminal Trial (Oxford: Oxford University
+Press, 2015) is skeptical that there is any reason to exclude character evidence like Prior
+Burglary that would not also be a reason to exclude motive evidence. Our account does
+identify such a reason since admitting bad character evidence like Prior Burglary would vi-
+olate equal protection but admitting bad motive evidence does not.
+                                          Di Bello and O’Neil        Profile Evidence 171
+description. To illustrate, any innocent person could have a motive to
+murder someone or other. If any of those people were ever murdered,
+this innocent person would then fall under some description like “stood
+to gain from the death of the victim” of that murder and could be mis-
+takenly incriminated by motive evidence. Thus, from the ex ante point
+of view of lawmakers, there is no one who is immune to mistaken incrim-
+ination by motive evidence.59
+      The difference between profile evidence and other forms of evi-
+dence—namely, that profile evidence can only mistakenly incriminate
+some types of defendants and not others, while eyewitness, trace, and mo-
+tive evidence can incriminate any type of defendant—is not attributable
+to the fact that profile evidence is statistical while other kinds of evidence
+are not. Profile evidence is a form of statistical evidence, but eyewitness,
+trace, and motive evidence can also be presented together with statistical
+generalizations about, say, the typical error rates of eyewitnesses under
+certain conditions, the frequency of genetic profiles, or the likelihood
+that someone who fought with another person would later kill them.
+While the availability of such statistics at trial can help the fact finders as-
+sess probative value correctly, it does not change the fact that eyewitness,
+trace, and motive evidence can mistakenly incriminate any type of inno-
+cent defendant, since the statistics in question do not constrain who can
+be incriminated by these forms of evidence.60
+
+VI. RISKS OF INCRIMINATION VERSUS RISKS OF CONVICTION
+
+We’ve explained how eyewitness testimony, trace evidence, and motive
+evidence could mistakenly incriminate any defendant, unlike profile ev-
+idence. This key difference means that the argument in Section IV, which
+showed why admitting profile evidence would threaten equal protection,
+is inapplicable to these other kinds of evidence. But even if that argu-
+ment does not apply to them, there might be other grounds for thinking
+that their admissibility at trial would pose a threat to equal protection.
+
+      59. To be sure, lawmakers cannot know who would end up committing burglary ei-
+ther. If they were to consider people at birth, they could not predict where people would
+end up in their adult lives. But the ex ante perspective of lawmakers is located in advance of
+particular trials, not behind a veil of ignorance. Before any particular trial for burglary, law-
+makers can know who committed burglary before, but they can have no knowledge of the
+circumstances of particular crimes.
+      60. The availability of statistics about the frequency of genetic profiles could, however,
+make it the case that defendants with genetic profiles that are statistically more common
+could not be as strongly incriminated by DNA trace evidence as defendants with less com-
+mon genetic profiles. Similarly, statistics about the reliability of eyewitness identifications
+could make it the case that defendants with a more common appearance could not be
+as strongly incriminated as others. For a discussion of this point in terms of probative value,
+see Sec. VI.
+172       Ethics      January 2020
+Even though any innocent defendant can be mistakenly incriminated by
+these other kinds of evidence, what if some defendants are more likely to
+be mistakenly incriminated by them than others? We will argue that, al-
+though admitting eyewitness testimony and other kinds of evidence might
+well give rise to different risks of mistaken incrimination, this should not
+give rise to different risks of mistaken conviction if the probative value of
+the evidence is assessed correctly.
+
+A
+At first glance, there is no reason to think that there are any types of in-
+nocent defendants who would be more likely than others to be misiden-
+tified by an eyewitness, to misleadingly match a DNA sample found at a
+crime scene, or to have had a motive to commit a crime they have been
+falsely accused of. And if no types of innocent defendants are more likely
+to be mistakenly incriminated than any others by these kinds of evidence,
+then admitting them should not expose any defendants to a higher risk of
+mistaken conviction and thus would not threaten any defendants’ rights
+to equal protection.
+      On closer examination, however, lawmakers could have reason to
+believe that some types of defendants would be more vulnerable to mis-
+taken incrimination by these kinds of evidence than others. Lawmakers
+might, for example, have good reason to believe that some innocent de-
+fendants would be at a predictably higher risk of mistaken incrimination
+by eyewitness testimony compared to others. For one thing, eyewitnesses
+may be worse at identifying some types of defendants than others. Cross-
+racial identifications are known to be less reliable than intraracial ones.61
+If eyewitnesses on average are less reliable at identifying black defendants
+than they are at identifying white defendants, then innocent black defen-
+dants could be more likely to be mistakenly incriminated by eyewitness
+testimony than innocent white defendants.62 And even when reliability
+is the same, there may be other reasons why some innocent defendants
+are at a higher risk of mistaken incrimination by eyewitness testimony
+than others. For example, since people who live in high-crime areas will
+be seen near a crime scene more often, the risk that they would be mis-
+identified as perpetrators would be higher compared to innocent people
+
+
+     61. A meta-analysis found that an innocent black suspect has a 56 percent greater
+chance of being misidentified by a white eyewitness than by a black eyewitness. See C. A.
+Meissner and J. C. Brigham, “Thirty Years of Investigating the Own-Race Bias in Memory
+for Faces: A Meta-analytic Review,” Psychology, Public Policy, and Law 7 (2001): 3–35.
+     62. If we assume that a black defendant is more likely to be incriminated by a white
+eyewitness than a white defendant by a black eyewitness, the 56 percent difference (see
+note 61) would expose innocent black defendants to a higher risk of misidentification than
+innocent white defendants.
+                                        Di Bello and O’Neil       Profile Evidence 173
+living in low-crime areas even assuming that eyewitnesses are no more re-
+liable at identifying people in low-crime areas than in high-crime areas.
+      It is tempting to conclude that these differences in the risk of incrim-
+ination automatically translate into differences in the risk of conviction.
+If, from the ex ante point of view, the bodies of evidence against one type
+of innocent defendant are more likely to contain a piece of incriminat-
+ing eyewitness testimony than the bodies of evidence against other inno-
+cent defendants, and all else is equal, wouldn’t it follow that the first type
+of defendant would be exposed to a higher risk of mistaken conviction?
+If this is correct, then some types of defendants will be more likely to be
+mistakenly convicted by eyewitness testimony than others, and their rights
+to equal protection would be infringed.
+
+B
+While this piece of reasoning sounds appealing, it contains a subtle mis-
+take. Different risks of mistaken incrimination by eyewitness testimony
+need not, and should not, result in different risks of mistaken convic-
+tion. The first thing to note here is that eyewitness testimony, like any
+kind of evidence, should be assigned the right probative value. In order
+to assign evidence the right probative value, we must assess the risk that
+it would mistakenly incriminate an innocent defendant. The higher the
+risk of mistaken incrimination by the evidence, the lower the probative
+value of the evidence. After all, the more prone to error the evidence, the
+weaker the evidence. This is how evidence should be rationally weighed.63
+Consequently, if people living in high-crime areas are at higher risk of
+being mistakenly incriminated by eyewitness testimony, then eyewitness
+testimony against them should be assigned a lower probative value than
+eyewitness testimony against those who live in low-crime areas. The same
+applies to testimonies against black versus white defendants.
+      The second thing to note is that if fact finders are rational, their
+readiness to convict on a body of evidence depends on the overall proba-
+tive value of that body. This is the rational calibration principle we intro-
+duced in Section IV. If an eyewitness testimony against a defendant in a
+high-crime area should be judged as less probative than a similar testimony
+
+     63. The strength or probative value of evidence E relative to a pair of competing hy-
+potheses—in our case, the defendant’s guilt G and innocence I—is measured by the like-
+lihood ratio Pr(E/G)/Pr(E/I). The higher Pr(E/G)/Pr(E/I) (for values above 1), the
+more probative of guilt the evidence. This also means that the higher Pr(E/I)—which
+tracks the risk of mistaken incrimination by evidence E—the lower the likelihood ratio
+and thus the lower the probative value of evidence E. See, e.g., Philip Dawid, “Bayes’s The-
+orem and Weighing Evidence by Juries,” in Bayes’s Theorem, ed. Richard Swinburne (Oxford:
+Oxford University Press, 2002), 71–90; and Marcello Di Bello and Bart Verheij, “Evidential
+Reasoning,” in Handbook of Legal Reasoning and Argumentation, ed. Giorgio Bongiovanni et al.
+(Dordrecht: Springer, 2018), 447–93.
+174       Ethics        January 2020
+against a defendant in a low-crime area, adding the former testimony to
+the overall body of evidence should increase its probative value—and, by
+calibration, the risk of conviction—by less than the latter testimony. The
+same can be said of testimonies against black defendants as opposed to
+testimonies against white defendants.
+     So even though some defendants are at a predictably higher risk of
+mistaken incrimination by eyewitness evidence, this higher risk is offset
+by the fact that eyewitness evidence against them should be assigned a
+lower probative value. This lower probative value, by calibration, should
+lead to a smaller increase in the risk of conviction when eyewitness evi-
+dence is presented against innocent defendants whose risk of incrimina-
+tion is higher. Thus, if fact finders are rationally calibrated to the bodies
+of evidence against defendants, admitting eyewitness testimony would
+not subject innocent defendants who are at higher risk of mistaken incrim-
+ination to a higher risk of mistaken conviction.
+     This point generalizes to any form of evidence that exposes some
+defendants to a higher risk of mistaken incrimination than others, so long
+as the evidence is capable of mistakenly incriminating any type of defen-
+dant. For example, although the diagnostic power of DNA testing should
+be the same regardless of the individual being tested, different laborato-
+ries might follow different standards, and this might result in predictably
+different risks of false-positive matches for different defendants. But if
+the match is the result of a laboratory analysis with a higher error rate, it
+should be assigned a lower probative value compared to a match resulting
+from a laboratory analysis with a lower error rate.64 Whenever some defen-
+dants—for whatever reason—are at higher risk of mistaken incrimination
+by DNA evidence, this higher risk should be offset by assigning it a lower
+probative value.65
+
+C
+Let’s take stock. We first argued that any type of innocent defendant can
+be mistakenly incriminated by forms of evidence such as eyewitness tes-
+timony, trace evidence, and motive evidence. But it does not follow from
+this that no type of defendant could be at higher risk of being mistakenly
+
+     64. Forensic scientists have recommended that laboratory error rates be taken into
+account while assessing the probative value of a DNA match; see, e.g., John S. Buckleton,
+Jo-Anne Bright, and Duncan Taylor, eds., Forensic DNA Evidence Interpretation, 2nd ed. (Boca
+Raton, FL: CRP, 2016).
+     65. The frequency of genetic profiles also affects the risk of false-positive DNA matches.
+The higher the frequency of the profile, the higher the risk of a false-positive match. This
+difference in the risk of false positives can be offset by the right assessment of probative
+value. The forensic literature is clear that the probative value of DNA matches should re-
+flect differences in the frequencies of profiles; see Buckleton et al., Forensic DNA Evidence
+Interpretation.
+                                        Di Bello and O’Neil       Profile Evidence 175
+incriminated by these other forms of evidence, and in fact, some types of
+defendants may well be more likely to be mistakenly incriminated by them.
+Nevertheless, we showed that different risks of mistaken incrimination by
+these forms of evidence will not lead to different risks of mistaken convic-
+tion if the fact finders assess their probative value correctly.
+      In order to adjust their assessment of the probative value of the ev-
+idence and prevent inequalities in the risks of mistaken conviction from
+arising, fact finders will need to be informed about the risk of mistaken
+incrimination by that evidence. Equal protection, then, requires admit-
+ting various statistical generalizations at trial: error rates of laboratories
+that do DNA testing, statistics about the reliability of eyewitnesses in differ-
+ent circumstances, and so on. If the fact finders are not given this infor-
+mation (and they often are not), admitting eyewitness testimony and other
+forms of evidence could violate equal protection. But there are already
+reasons of accuracy to give them this information.66 In a well-functioning
+courtroom, then, admitting these forms of evidence would not violate
+equal protection.
+      This prompts a question. If a correct assessment of the probative
+value of eyewitness and trace evidence would prevent unequal risks of mis-
+taken incrimination from yielding unequal risks of mistaken conviction,
+why wouldn’t a correct assessment of the probative value of profile evi-
+dence do the same? Recall the key difference between these other forms
+of evidence and profile evidence: namely, eyewitness and trace evidence
+can incriminate any defendant, while profile evidence can only incrimi-
+nate defendants who fit incriminating profiles correlated with the type
+of crime they are accused of. If the fact finders were to assess the probative
+value of, say, Prior Burglary, they should not regard this evidence as proba-
+tive of the guilt of defendants who have not committed prior burglaries.
+They should, however, regard it as probative of the guilt of defendants
+who have committed prior burglaries—the stronger the correlation, the
+more probative the evidence.
+      Thus, if the probative value of profile evidence is assessed correctly,
+this evidence should be regarded as probative of guilt when it is presented
+against defendants who fit incriminating profiles and should not be re-
+garded as probative of guilt when it is presented against defendants who
+do not fit such profiles. Admitting this evidence at trial would therefore,
+by calibration, increase the risks of mistaken conviction for those who
+fit profiles but not for those who do not. The only assessments of its
+
+     66. Although there is typically no legal requirement that the fact finders be informed
+about eyewitness reliability—see, e.g., Laura Connelly, “Cross-Racial Identifications: Solu-
+tions to the ‘They All Look Alike’ Effect,” Michigan Journal of Race and Law 21 (2015): 125–
+45—the Supreme Court of New Jersey has required jury instructions to inform jurors about
+sources of unreliability of eyewitness evidence; see State v. Henderson, 27 A.3d 872 (NJ
+2011).
+176       Ethics       January 2020
+probative value that could preserve equal risks of mistaken conviction would
+be either to assign profile evidence no probative value against defendants
+who fit profiles or to assign it the same probative value against defendants
+who do not fit profiles as against defendants who do. But neither assess-
+ment is correct.
+
+VII. CONCLUSION
+
+We set out to vindicate the intuition that admitting profile evidence at
+trial wrongs defendants. We showed why admitting profile evidence at
+trial would expose some defendants to a higher risk of mistaken convic-
+tion than others, infringing their rights to equal protection. Our account
+can also explain why admitting other forms of evidence, such as eyewit-
+ness testimony, trace evidence, and motive evidence, would not be incon-
+sistent with equal protection. Although admitting other forms of evidence
+can expose some defendants to a higher risk of mistaken incrimination
+than others, it will not expose them to higher risks of mistaken conviction,
+so long as the fact finders properly assess the probative value of the evi-
+dence. But it is precisely when fact finders assess the probative value of
+profile evidence correctly that admitting it would violate some defendants’
+equal protection rights. The fault lies with profile evidence, not with the
+fact finders.
+      Our argument has been restricted to the question of the admissibil-
+ity of profile evidence during the guilt phase of criminal trials. This is not
+the only criminal justice context in which profile evidence may be used.
+In closing, we will briefly compare our fairness-based objection to the use
+of profile evidence at trial with a similar objection to the use of profile ev-
+idence in policing.67 Just as we showed that admitting profile evidence at
+trial would expose some innocent defendants to a higher risk of mistaken
+conviction, a similar line of argument could be used to show that permit-
+ting profiling in policing would expose innocent citizens belonging to
+the profiled groups to a higher risk of mistaken stops and searches. Would
+these higher risks of mistaken stops and searches be unfair to those inno-
+cent citizens?68
+
+
+     67. For a useful overview of definitions of racial profiling in policing and arguments
+for and against it, see Katerina Hadjimatheou, “Racial Profiling,” in The SAGE Encyclopedia
+of Surveillance, Security, and Privacy (Thousand Oaks, CA: Sage, 2018), 823–25.
+     68. There appears to be some support for the view that they would be. Some scholars
+have argued that even an idealized form of racial profiling (i.e., rational and respectful)
+would be unfair because it would disproportionately burden innocent members of the pro-
+filed race. For versions of this objection, see Randall Kennedy, Race, Crime, and the Law
+(New York: Vintage, 1997), 159–61; and Naomi Zack, White Privilege and Black Rights: The
+Injustice of U.S. Police Racial Profiling and Homicide (New York: Rowman & Littlefield, 2015),
+55. As stated, this is an objection on behalf of a group, not individual citizens, but this
+                                         Di Bello and O’Neil        Profile Evidence 177
+      The fact that policing is a criminal justice context, governed by
+equality before the law, lends plausibility to the view that being exposed
+to a higher risk of mistaken stops and searches is unfair. On the other
+hand, some have argued that it would not be unreasonable to expect in-
+nocent citizens to accept a higher risk of such a burden when this would
+promote an important public good like security, provided that society
+displayed reciprocity along other dimensions.69 And even if it would be
+unfair to impose higher (and uncompensated) risks of mistaken stops
+and searches on some innocent citizens for the sake of the public good of
+security, some have argued that it would not be unfair if the same group
+of innocent citizens who were exposed to a higher risk of stops by the prac-
+tice of profiling also gained more security than others, so that they were
+net beneficiaries of the practice. This might be the case if the main victims
+of guilty citizens belonging to the profiled group were other innocent cit-
+izens belonging to the same group.70
+      Whether or not these considerations successfully defuse the charge
+of unfairness against the use of profile evidence in policing, we have
+shown that similar considerations would not defuse the charge of unfair-
+ness against the use of profile evidence at the trial stage. If our argument
+in Section III is correct, innocent defendants would still have a complaint
+against procedures that exposed them to a higher risk of mistaken con-
+viction, even if these higher risks permitted a more efficient reduction
+in crime. There is also an important difference between citizens who are
+affected by higher risks of mistaken stops and searches and defendants
+who are affected by higher risks of mistaken convictions. Perhaps higher
+
+
+
+objection could be recast in terms of risk, so that it ascribes individual citizens a complaint
+against being exposed to higher risks of mistaken stops and searches in virtue of fitting
+a certain profile. See Steven Durlauf, “Assessing Racial Profiling,” Economic Journal 116
+(2001): 402–26.
+     69. See Mathias Risse and Richard Zeckhauser, “Racial Profiling,” Philosophy and Public
+Affairs 32 (2004): 131–70, 156–58; and David Boonin, Should Race Matter? (Cambridge:
+Cambridge University Press, 2011), 341–47. See also Hellman, “Racial Profiling,” 235–36,
+although she still objects to racial profiling on the grounds of the demeaning message that
+it sends.
+     70. See Risse and Zeckhauser, “Racial Profiling,” 158–60; Boonin, Should Race Matter?,
+341–42. For reasons to doubt that innocent black Americans would be net beneficiaries of
+racial profiling, see Lever, “Racial Profiling,” 433–34; and Kennedy, Race, Crime, and the
+Law, 153. For an argument that even if black Americans were net beneficiaries, this would
+not comprehensively justify racial profiling, see Kasper Lippert-Rasmussen, Born Free and
+Equal? (Oxford: Oxford University Press, 2013), 285–301. It should also be pointed out
+that the magnitude of the burdens of stops and searches is greater for blacks than for
+whites. When the targeted group is subject to background injustice and stereotyping, stops
+and searches are more frequently experienced as humiliating; see Paul Bou-Habib, “Racial
+Profiling and Background Injustice,” Journal of Ethics 15 (2011): 33–46.
+178        Ethics       January 2020
+risks of mistaken stops and searches could be justified to innocent citi-
+zens belonging to the profiled groups, since it may be in their overall in-
+terests as citizens to accept a higher risk of mistaken stops in exchange
+for a lower risk of victimization. But even if a higher risk of mistaken
+conviction would be in their overall interests as innocent citizens, because
+the main victims of guilty members of a profiled group were, say, other
+innocent members of the same profiled group, it would not be in their
+overall interests as innocent defendants, and it is to defendants that un-
+equal risks of mistaken conviction must be justified.71
+
+
+
+
+      71. On this, see the argument in Sec. III.C.
+
